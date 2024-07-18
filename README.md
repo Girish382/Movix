@@ -52,24 +52,6 @@ Explore the vast collection of movies and get detailed information about each on
 - Vite
 - TMDB API
 
-## Contributing
 
-We welcome contributions from the community! Whether it's fixing bugs, adding new features, or improving the user interface, anyone can participate in making Movix even better.
-
-## License
-
-Movix is licensed under the [MIT License](./LICENSE).
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- Email: ayush7426883261@gmail.com
-- LinkedIn : https://www.linkedin.com/in/ayush-panday-799b3120b/
-- GitHub : https://github.com/AyushPanday1
-
-
-## Happy Coding!
-© 2023 Ayush Panday
 
 
